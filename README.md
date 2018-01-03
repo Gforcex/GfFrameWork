@@ -23,5 +23,7 @@ framework处理类实例对象之间的关系,类本身只负责实现各自的�
 
 * [uFrame](https://github.com/uFrame/uFrame.Complete)
 
+## Model-View-Intent
+
 ## Behavior Tree
 
