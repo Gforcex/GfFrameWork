@@ -60,5 +60,13 @@ Intent:
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
 * [ecsrx](https://github.com/grofit/ecsrx)
 
+# AI
+## FSM
+## HFSM
+分层有限状态机
+## Decision Tree
+决策树
 ## Behavior Tree
-
+* [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
+## Goal Oriented Action Planning
+* [ReGoap](https://github.com/luxkun/ReGoap)
