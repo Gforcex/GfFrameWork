@@ -1,11 +1,5 @@
 # GfFrameWork
 
-## IOC/Dependency Injection
-依赖注入到容器
-framework处理类实例对象之间的关系,类本身只负责实现各自的功能、解耦。
-
-* [Zenject](https://github.com/modesttree/Zenject) Dependency Injection Framework for Unity3D
-
 ## Reactive Extensions
 响应式编程
 * [UniRx](https://github.com/neuecc/UniRx)
@@ -14,16 +8,57 @@ framework处理类实例对象之间的关系,类本身只负责实现各自的�
 
 ## Future
 
+## IOC/Dependency Injection
+依赖注入到容器
+framework处理类实例对象之间的关系,类本身只负责实现各自的功能、解耦。
+
+* [strangeioc](https://github.com/strangeioc/strangeioc) The IoC/Binding Framework for Unity3D and C#
+* [Zenject](https://github.com/modesttree/Zenject) Dependency Injection Framework for Unity3D
+
+## MVC
+View：
+Model：
+Controller:
+
+## MVCS 
+View：用户界面 
+Controller：业务逻辑及处理 
+Model：数据存储 
+Store：数据处理逻辑
+
+## MVP
+View：
+Model：
+Presenter：
+
+## MVVM
+View：
+Model：
+ViewModel:
+Controller:
+
+* [uFrame](https://github.com/uFrame/uFrame.Complete)
+
+## VIPER
+View：视图
+Interactor:交互器
+Presenter：展示器 
+Entity：实体
+Router：路由器
+
+## MVI
+Model-View-Intent
+
+Model:
+View:
+Intent:
+
+## Signals & Slots
+
 ## Entity Component System
 
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
 * [ecsrx](https://github.com/grofit/ecsrx)
-
-## MVC/MVP/MVVM
-
-* [uFrame](https://github.com/uFrame/uFrame.Complete)
-
-## Model-View-Intent
 
 ## Behavior Tree
 
