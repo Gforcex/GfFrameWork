@@ -62,11 +62,26 @@ Intent:
 
 # AI
 ## FSM
+Finite-State Machines
+有限状态机
+
 ## HFSM
+Hierarchical Finite-State Machines
 分层有限状态机
-## Decision Tree
-决策树
-## Behavior Tree
+
+## HTN
+Hierarchical Task Networks
+分层任务网络
+
+## US
+Utility Systems
+效用系统
+
+## BT
+Behavior Trees
 * [Event-Based-Behavior-Tree-Planner](https://github.com/Weilin1992/Event-Based-Behavior-Tree-Planner)
-## Goal Oriented Action Planning
+
+## GOAP
+Goal Oriented Action Planning
+目标导向型行动计划
 * [ReGoap](https://github.com/luxkun/ReGoap)
