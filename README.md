@@ -1,5 +1,10 @@
 # GfFrameWork
 
+## Entity Component System
+
+* [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
+* [ecsrx](https://github.com/grofit/ecsrx)
+
 ## Reactive Extensions
 响应式编程
 * [UniRx](https://github.com/neuecc/UniRx)
@@ -15,16 +20,19 @@ framework处理类实例对象之间的关系,类本身只负责实现各自的�
 * [strangeioc](https://github.com/strangeioc/strangeioc) The IoC/Binding Framework for Unity3D and C#
 * [Zenject](https://github.com/modesttree/Zenject) Dependency Injection Framework for Unity3D
 
+# Three-tier architecture
 ## MVC
-View：
-Model：
-Controller:
+View：收到Model通知，GetModel数据刷新。
+Model：数据逻辑处理，数据改变通知View。
+Controller: 用户与View交互产生，通过Controller来控制Model。
+主动：View在Update中获取更新命(事件、命令)令队列，访问Model数据刷新。
+被动：Model变换通知View observer。
 
 ## MVCS 
 View：用户界面 
 Controller：业务逻辑及处理 
-Model：数据存储 
-Store：数据处理逻辑
+Model：数据存储
+Store (Service)：数据处理逻辑
 
 ## MVP
 View：
@@ -35,7 +43,7 @@ Presenter：
 View：
 Model：
 ViewModel:
-Controller:
+(Controller):
 
 * [uFrame](https://github.com/uFrame/uFrame.Complete)
 
@@ -53,12 +61,10 @@ Model:
 View:
 Intent:
 
+# Information Transfer
 ## Signals & Slots
-
-## Entity Component System
-
-* [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
-* [ecsrx](https://github.com/grofit/ecsrx)
+## Target/Action
+## Delegate
 
 # AI
 ## FSM
