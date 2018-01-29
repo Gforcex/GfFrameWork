@@ -111,15 +111,27 @@ Goal Oriented Action Planning
    Golang语言内置
 
 # Software Development Process
-Waterfall Model 瀑布模型：计划-需求分析-概要设计-详细设计-编码-测试-运行维护，软件开发按流程递进，有问题逐级反馈。</br>
-Build and Fix Model 边做边改模型：</br>
-Rapid Prototype Model 快速原型模型：</br>
-Evolutionary Model 演化模型：第一次迭代(需求->设计->实现->测试->集成)->反馈->第二次迭代(需求->设计->实现->测试->集成)->反馈->…… </br>
-Incremental Model 增量模型：软件系统模块化和组件化，可并发进行</br>
-Spiral Model 螺旋模型：</br>
-Fountain Model 喷泉模型：</br>
-Intelligent model 智能模型：</br>
-Hybrid Model/Meta-model混合模型/过程开发模型/元模型:</br>
-RAD模型:</br>
-Agile software development 敏捷开发 </br>
-Test-Driven Development 测试驱动开发(TDD) </br>
+> Waterfall Model 瀑布模型
+计划-需求分析-概要设计-详细设计-编码-测试-运行维护，软件开发按流程递进，有问题逐级反馈。</br>
+> Build and Fix Model 边做边改模型
+</br>
+> Rapid Prototype Model 快速原型模型
+</br>
+> Evolutionary Model 演化模型
+第一次迭代(需求->设计->实现->测试->集成)->反馈->第二次迭代(需求->设计->实现->测试->集成)->反馈->…… </br>
+> Incremental Model 增量模型
+软件系统模块化和组件化，可并发进行</br>
+> Spiral Model 螺旋模型
+</br>
+> Fountain Model 喷泉模型
+</br>
+> Intelligent model 智能模型
+</br>
+> Hybrid Model/Meta-model混合模型/过程开发模型/元模型
+</br>
+> RAD模型
+</br>
+> Agile software development 敏捷开发 
+</br>
+> Test-Driven Development 测试驱动开发(TDD) 
+</br>
