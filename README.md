@@ -93,11 +93,22 @@ Goal Oriented Action Planning
 * [ReGoap](https://github.com/luxkun/ReGoap)
 
 # Net
+## Half-sync/Half-async 半同步/半异步模型
+## Leader/Followers 领导者/跟随者模型
+## Reactor 反应器
+## Proactor 前摄器
 ## RPC
 * [MagicOnion](https://github.com/neuecc/MagicOnion)
  
 # Concurrency 并发
 ## Producer-Consumers 
+## Callback
+## Actor
+ Scala语言内置
+ 用消息机制实现了并发，隐藏了线程，Actor最多同时只能进行一样工作，Actor可以有自己的变量和数据，多个Actor可能运行在同一个进程或线程中。
+## CSP 
+   Communicating Sequential Process
+   Golang语言内置
 
 # Software Development Process
 Waterfall Model 瀑布模型：计划-需求分析-概要设计-详细设计-编码-测试-运行维护，软件开发按流程递进，有问题逐级反馈。</br>
