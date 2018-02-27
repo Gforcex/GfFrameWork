@@ -96,7 +96,9 @@ Goal Oriented Action Planning
 ## Half-sync/Half-async 半同步/半异步模型
 ## Leader/Followers 领导者/跟随者模型
 ## Reactor 反应器
+  Reactor用于同步IO
 ## Proactor 前摄器
+  Proactor用于异步IO
 ## RPC
 * [MagicOnion](https://github.com/neuecc/MagicOnion)
  
