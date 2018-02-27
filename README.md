@@ -111,6 +111,8 @@ Goal Oriented Action Planning
 ## CSP 
    Communicating Sequential Process
    Golang语言内置
+## Active Object
+* [Active Object An Object Behavioral Pattern for Concurrent Programming](http://www.cs.wustl.edu/~schmidt/PDF/Act-Obj.pdf) 
 
 # Software Development Process
 + Waterfall Model 瀑布模型  
