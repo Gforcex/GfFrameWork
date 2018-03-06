@@ -90,6 +90,7 @@ Behavior Trees
 ## GOAP
 Goal Oriented Action Planning
 目标导向型行动计划
+* [GPGOAP](https://github.com/stolk/GPGOAP)
 * [ReGoap](https://github.com/luxkun/ReGoap)
 
 # Net
