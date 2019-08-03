@@ -2,8 +2,8 @@
 
 ## Entity Component System
 
-* [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp)
-* [ecsrx](https://github.com/grofit/ecsrx)
+* [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
+* [Svelto.ECS](https://github.com/sebas77/Svelto.ECS) velto ECS C# Lightweight Data Oriented Entity Component System Framework 
 
 ## Reactive Extensions
 响应式编程
