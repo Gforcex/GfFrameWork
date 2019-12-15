@@ -1,9 +1,12 @@
 # GfFrameWork
 
+* [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+
 ## Entity Component System
 
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS) velto ECS C# Lightweight Data Oriented Entity Component System Framework 
+* [flecs A Multithreaded](https://github.com/SanderMertens/flecs A Multithreaded) Entity Component System written for C89 & C99
 
 ## Reactive Extensions
 响应式编程
