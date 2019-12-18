@@ -6,7 +6,7 @@
 
 * [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp) Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 * [Svelto.ECS](https://github.com/sebas77/Svelto.ECS) velto ECS C# Lightweight Data Oriented Entity Component System Framework 
-* [flecs A Multithreaded](https://github.com/SanderMertens/flecs A Multithreaded) Entity Component System written for C89 & C99
+* [flecs](https://github.com/SanderMertens/flecs A Multithreaded) A Multithreaded Entity Component System written for C89 & C99
 
 ## Reactive Extensions
 响应式编程
@@ -97,6 +97,7 @@ Goal Oriented Action Planning
 * [ReGoap](https://github.com/luxkun/ReGoap)
 
 # Net
+* [Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) A Curated List of Game Network Programming Resources
 ## Half-sync/Half-async 半同步/半异步模型
 ## Leader/Followers 领导者/跟随者模型
 ## Reactor 反应器
